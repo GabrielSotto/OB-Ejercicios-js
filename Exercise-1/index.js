@@ -14,7 +14,7 @@ const list = [
     "Gabriel",
     32,
     true,
-    new Date(1990, 8, 17),
+    new Date(1990, 5, 17),
     {
         titulo: "Sherlock Holmes",
         autor: "Sir Arthur Conan Doyle",
